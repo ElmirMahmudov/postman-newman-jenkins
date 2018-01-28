@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "api-test-production": "newman run test/Jsonplaceholde.com.postman_collection.json"
+    "api-test-production": "newman run test/Jsonplaceholder.com.postman_collection.json"
   },
   "author": "Lipa",
   "dependencies": {
